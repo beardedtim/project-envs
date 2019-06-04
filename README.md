@@ -1,5 +1,7 @@
 # Project Envs
 
+[![CircleCI](https://circleci.com/gh/beardedtim/project-envs.svg?style=svg)](https://circleci.com/gh/beardedtim/project-envs)
+
 ## Usage
 
 ```javascript
