@@ -1,0 +1,13 @@
+{
+  "name": "@mck-p/project-envs",
+  "version": "0.0.1",
+  "description": "Creates project env files from a JSON config",
+  "main": "index.js",
+  "repository": "git@github.com:beardedtim/project-envs.git",
+  "author": "Tim Roberts <timiroberts@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
