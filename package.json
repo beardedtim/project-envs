@@ -7,6 +7,9 @@
   "author": "Tim Roberts <timiroberts@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^24.8.0"
   }
